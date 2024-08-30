@@ -2,3 +2,4 @@ Hello
 Shruthi
 Tanishka
 How are you?
+Updating the file using Visual Studio Code
